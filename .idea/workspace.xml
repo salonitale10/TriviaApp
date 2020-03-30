@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7505d906-71a2-43d2-9467-11ceaee9fb09" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/QuizApp-Android/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuizApp-Android/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuizApp-Android/app/src/main/java/com/example/vikasojha/quizbee/SummaryActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuizApp-Android/app/src/main/res/layout/activity_summary.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizApp-Android/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizApp-Android/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizApp-Android/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizApp-Android/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizApp-Android/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/QuizApp-Android/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizApp-Android/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/QuizApp-Android/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizApp-Android/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizApp-Android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/QuizApp-Android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizApp-Android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/QuizApp-Android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizApp-Android/app/src/main/java/com/example/vikasojha/quizbee/DeveloperActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizApp-Android/app/src/main/java/com/example/vikasojha/quizbee/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/QuizApp-Android/app/src/main/java/com/example/vikasojha/quizbee/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizApp-Android/app/src/main/java/com/example/vikasojha/quizbee/QuestionsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/QuizApp-Android/app/src/main/java/com/example/vikasojha/quizbee/QuestionsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizApp-Android/app/src/main/java/com/example/vikasojha/quizbee/ResultActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/QuizApp-Android/app/src/main/java/com/example/vikasojha/quizbee/ResultActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizApp-Android/app/src/main/res/layout/activity_developer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizApp-Android/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/QuizApp-Android/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizApp-Android/app/src/main/res/layout/activity_questions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/QuizApp-Android/app/src/main/res/layout/activity_questions_single_answer.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizApp-Android/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/QuizApp-Android/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizApp-Android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/QuizApp-Android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizApp-Android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/QuizApp-Android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/QuizApp-Android" />
+  </component>
+  <component name="ProjectId" id="1Zkdqme0x6I786KkltcW5hhubua" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7505d906-71a2-43d2-9467-11ceaee9fb09" name="Default Changelist" comment="" />
+      <created>1585387218348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585387218348</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

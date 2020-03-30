@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+    tools:context="com.trivia.saloni.quizapp.SummaryActivity">
+
+    <ListView
+        android:id="@+id/gameList"
+        android:layout_width="match_parent"
+        android:layout_height="500dp">
+
+    </ListView>
+
+
+    <Button
+        android:id="@+id/back_button"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:layout_below="@+id/gameList"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="25dp"
+        android:layout_marginBottom="20dp"
+        android:background="#FF5722"
+        android:text="Back"
+        android:textColor="#ffffff"
+        android:textSize="25dp" />
+
+</LinearLayout>

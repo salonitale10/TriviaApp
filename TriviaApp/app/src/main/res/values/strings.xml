@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TriviaApp</string>
+    <string name="triviaApp">TriviaApp</string>
+    <string name="nameLabel">What is your name?</string>
+    <string name="Summary">Summary</string>
+    <string name="history">history</string>
+    <string name="trivia">Trivia</string>
+</resources>
